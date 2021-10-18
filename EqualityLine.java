@@ -1,7 +1,6 @@
 package oopsday1;
 
 public class EqualityLine {
-
 	Point p1;
 	Point p2;
 	Point p3;
